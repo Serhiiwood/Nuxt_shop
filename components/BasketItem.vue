@@ -88,7 +88,7 @@
 	.itemRemove {
 		position: absolute;
 		right: 5px;
-		z-index: -1;
+		z-index: 1;
 	}
 
 	@media (max-width: 480px) {
