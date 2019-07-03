@@ -1,0 +1,20 @@
+{
+  "name": "shop",
+  "version": "1.0.0",
+  "description": "shop",
+  "author": "serhii vovnenko",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.0.0",
+    "vuex": "^3.1.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
